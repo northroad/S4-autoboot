@@ -1,0 +1,4 @@
+#!/system/bin/sh
+ls
+sleep 2
+bash ./healthd
