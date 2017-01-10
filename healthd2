@@ -1,6 +1,4 @@
-#!/sh
+#!/system/bin/sh
 ls
 sleep 2
-ls
-sleep 2
-sh ./healthd
+bash ./healthd
